@@ -1,5 +1,6 @@
 # Birdsong-Downloader
 
+---
 In our project, [birdsong-classification](https://github.com/Ren8394/birdsong-classification), Our data is recorded by the passive monitoring device so the audio is usually vague. To obtain clear audio of the birdsong, we decided to download audio from open source websites, Xeno-Canto and eBird.
 
 Adventages:
@@ -17,6 +18,7 @@ Open Source:
 
 ## Target Species
 
+---
 | Code  | Generic Name | Specific Name |
 | :---: | :----------: | :-----------: |
 |  YB   |    Yuhina    |  brunneiceps  |
@@ -31,12 +33,14 @@ Open Source:
 |  NV   |   Niltava    |    vivida     |
 |  PS   | Pericrocotus |    solaris    |
 |  PM   |    Parus     |  monticolus   |
+|  ME   | Erythrogenys | erythrocnemis |
 |  AC   | Arborophila  | crudigularis  |
 |  SE   |    Sitta     |   europaea    |
 |  PA   |  Periparus   |     ater      |
 
 ## How to Use
 
+---
 (defaults --> country: Taiwan, audio type: song)
 
 * Add "eBird Code" to get eBird audio.
