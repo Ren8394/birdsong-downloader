@@ -23,12 +23,14 @@ def DownloadAudio(speciesCode, url, fileID, q):
 # -------------
 if __name__ == '__main__':
   urlDF = pd.DataFrame(columns=['code', 'audio Url'])
+
   ## Load species Code
   codeDF = pd.read_csv(Path.cwd().joinpath('assets', 'code.csv'), header=0)
   for _, row in codeDF.iterrows():
     reqUrl = ConstructRequestUrl(row['sci Name'])
     res = requests.get(reqUrl)
     data = json.loads(res.text)
+    
     ### Download and save audio, and save its url
     numberOfRecordings = data['numRecordings']
     recordings = data['recordings']
