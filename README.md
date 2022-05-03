@@ -11,7 +11,7 @@ Open Source:
 
 1. Xeno-Canto (Use API)
    1. [Xeno-Canto API v2](https://xeno-canto.org/explore/api)
-2. eBird (Use Crawler)
+2. eBird (Use Crawler - [chromedriver](https://chromedriver.chromium.org/))
    1. Parse science name to [taxonomy Code](https://www.birds.cornell.edu/clementschecklist/download/)
    2. Construct request urls and start crawling
 
