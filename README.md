@@ -42,5 +42,5 @@ Open Source:
 * Add "eBird Code" to get eBird audio.
 * Add "sci Name" to get xeno-canto audio.
 * To custom you target:
-  * Adjust *ConstructRequestUrl* in [ebird-birdsong](ebird-birdsong.py)
-  * Adjust *ConstructRequestUrl* in [xeno-birdsong](xeno-birdsong.py)
+  * Adjust `ConstructRequestUrl` in [ebird-birdsong](ebird-birdsong.py)
+  * Adjust `ConstructRequestUrl` in [xeno-birdsong](xeno-birdsong.py)
