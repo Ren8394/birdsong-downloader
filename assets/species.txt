@@ -1,0 +1,16 @@
+Code	Generic Name	Specific Name
+YB	Yuhina	brunneiceps
+AA	Abroscopus	albogularis
+HA	Heterophasia	auricularis
+CR	Cyanoderma	ruficeps
+ML	Myiomela	leucura
+LS	Liocichla	steerii
+BG	Brachypteryx	goodfellowi
+PAL	Pnoepyga	formosana
+FH	Ficedula	hyperythra
+NV	Niltava	vivida
+PS	Pericrocotus	solaris
+PM	Parus	monticolus
+AC	Arborophila	crudigularis
+SE	Sitta	europaea
+PA	Periparus	ater
